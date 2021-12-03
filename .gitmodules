@@ -1,0 +1,3 @@
+[submodule "majoo_test"]
+	path = majoo_test
+	url = https://github.com/ekokurniadi/majoo_test.git
